@@ -1,0 +1,99 @@
+{
+    "contact_info": {
+        "name": "Pranesh Puri",
+        "email": "praneshspuri@gmail.com",
+        "phone": "+91 9765870060",
+        "location": "Pune, IN"
+    },
+    "profile": "Dedicated AI and Data Science student with a strong passion for learning and innovation, skilled in python,\nmachine learning and app development. My commitment to hard work and expanding my knowledge makes\nme a dependable and proactive team player.",
+    "education": [
+        {
+            "degree": "Pranesh Puri",
+            "institution": "praneshspuri@gmail.com +91 9765870060 Pune, IN pranesh008 Pranesh Puri",
+            "details": "PROFILE\nDedicated AI and Data Science student with a strong passion for learning and innovation",
+            "year": ", skilled in python,\nmachine learning and app development. My commitment to hard work and expanding my knowledge makes\nme a dependable and proactive team player.\nEDUCATION\nB. Tech in Artificial Intelligence and Data Science",
+            "location": "2022"
+        },
+        {
+            "degree": "Vishwakarma Institute of Information Technology Pune",
+            "institution": "CGPA - 8.45",
+            "details": "Diploma in Computer Engineering",
+            "year": "2019 \u2013",
+            "location": "2022"
+        },
+        {
+            "degree": "Polytechnic Pune",
+            "institution": "Percentage - 89.54%",
+            "details": "SSC",
+            "year": "2019\nSardar Dastur Hormazdiar High School",
+            "location": "Pune"
+        },
+        {
+            "degree": "PROJECTS\nTraffic Sign Detection using CNN",
+            "institution": "ML, Python, Deep learning",
+            "details": "Developed a traffic sign detection system using ML",
+            "year": ", DL\n\u2022\nEnhanced algorithms, achieving 88% accuracy using CNN.\n\u2022\nNext Word Prediction using NLP\nNLP, Python\nDeveloped a system to predict the next word using NLP.\n\u2022\nImplemented and trained a language model using Python and NLP libraries such as NLTK.\n\u2022\nCloud-based Movie Ticket Booking System\nCloud, Python\nDeveloped a Cloud-based Movie Ticket Booking System deployed on Google Cloud.\n\u2022\nUtilized cloud services to ensure scalability, reliability, and efficient handling of user data and transactions.\n\u2022\nTECHNICAL SKILLS SOFT SKILLS\nFundamental skills : Machine learning, App Team management\n\u2022 \u2022\nDevelopment Team leadership\n\u2022\nProgramming languages : Python, Kotlin Fluent English\n\u2022 \u2022\nDatabase : MySQL Project management\n\u2022 \u2022\nCourse Work : Data structures Strong communication skills\n\u2022 \u2022\nCloud databases : AWS Finance management\n\u2022 \u2022\nText analysis : NLP Critical thinking\n\u2022 \u2022\nDeveloper Tools : GitHub, VS Code, Jupyter,\n\u2022\nGoogle Colab\nEXTRA - CURRICULAR\nInternational Service Director",
+            "location": "2023"
+        },
+        {
+            "degree": "Rotaract Club of VIIT\nOrganized and led international service projects to foster global understanding",
+            "institution": "\u2022",
+            "details": "and cooperation",
+            "year": ".\nCoordinated with clubs to implement community service initiatives and cultural\n\u2022\nexchange programs.\nEvent Management team",
+            "location": "2023"
+        }
+    ],
+    "projects": [
+        {
+            "title": "TECHNICAL SKILLS SOFT SKILLS",
+            "technologies": [
+                "Fundamental skills : Machine learning",
+                "App Team management"
+            ],
+            "description": "\u2022\nDevelopment Team leadership\n\u2022\nProgramming languages : Python, Kotlin Fluent English \u2022"
+        },
+        {
+            "title": "\u2022 \u2022",
+            "technologies": [
+                "Course Work : Data structures Strong communication skills"
+            ],
+            "description": "\u2022\nCloud databases : AWS Finance management \u2022"
+        }
+    ],
+    "technical_skills": {
+        "fundamentals": [
+            "Machine learning",
+            " App Team management"
+        ],
+        "programming_languages": [
+            "Python",
+            " Kotlin Fluent English"
+        ],
+        "database": "MySQL Project management",
+        "course_work": [
+            "Data structures Strong communication skills"
+        ],
+        "cloud_databases": [
+            "AWS Finance management"
+        ],
+        "text_analysis": [
+            "NLP Critical thinking"
+        ],
+        "developer_tools": [
+            "GitHub",
+            " VS Code",
+            " Jupyter",
+            ""
+        ]
+    },
+    "soft_skills": [
+        "Fundamental skills : Machine learning, App Team management",
+        "\u2022\nDevelopment Team leadership\n\u2022\nProgramming languages : Python, Kotlin Fluent English",
+        "\u2022\nDatabase : MySQL Project management",
+        "\u2022\nCourse Work : Data structures Strong communication skills",
+        "\u2022\nCloud databases : AWS Finance management",
+        "\u2022\nText analysis : NLP Critical thinking",
+        "\u2022\nDeveloper Tools : GitHub, VS Code, Jupyter,\n\u2022\nGoogle Colab"
+    ],
+    "extra_curricular": []
+}
